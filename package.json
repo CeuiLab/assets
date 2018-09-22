@@ -1,14 +1,14 @@
 {
   "name": "cyris",
-  "version": "0.0.6",
-  "description": "optimize structure",
+  "version": "0.0.7",
+  "description": "Cyris's material",
   "main": "favicon.png",
   "scripts": {
     "hi": "echo \"Hello\""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CeuiLab/assets.git"
+    "url": "git+https://github.com/iCyris/assets.git"
   },
   "author": "Cyris <cyris1015@gmail.com>",
   "license": "ISC"
