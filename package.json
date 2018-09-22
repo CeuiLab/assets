@@ -1,7 +1,7 @@
 {
   "name": "cyris",
-  "version": "0.0.5",
-  "description": "",
+  "version": "0.0.6",
+  "description": "optimize structure",
   "main": "favicon.png",
   "scripts": {
     "hi": "echo \"Hello\""
