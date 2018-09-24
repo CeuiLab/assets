@@ -1,6 +1,6 @@
 {
   "name": "cyris",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Cyris's material",
   "main": "favicon.png",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iCyris/assets.git"
+    "url": "git+https://github.com/iCyris/sandbox.git"
   },
   "author": "Cyris <cyris1015@gmail.com>",
   "license": "ISC"
